@@ -1,0 +1,34 @@
+{
+  "Products": [
+    {
+      "Name": "stolik",
+      "Quantity": 4,
+      "ShelfLocations": [
+        "AA-A0-01"
+      ]
+    },
+    {
+      "Name": "krzeslo",
+      "Quantity": 10,
+      "ShelfLocations": [
+        "AA-A0-02",
+        "AA-A0-03"
+      ]
+    },
+    {
+      "Name": "sofa",
+      "Quantity": 8,
+      "ShelfLocations": [
+        "AA-A0-04"
+      ]
+    },
+    {
+      "Name": "kosmetyki",
+      "Quantity": 10,
+      "ShelfLocations": [
+        "AA-A0-05",
+        "AA-A0-06"
+      ]
+    }
+  ]
+}
